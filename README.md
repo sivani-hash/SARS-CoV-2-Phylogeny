@@ -10,5 +10,7 @@ Raw amino acid sequences were retrieved directly from the NCBI Database in FASTA
 * MERS-CoV (Human)
 * RaTG13 (Bat Ancestor)
 * BANAL-like (Bat Ancestor)
-To view the sequences - see the [raw_data](raw_data) folder for the .fasta files   
+
+To view the sequences - see the [raw_data](raw_data) folder for the .fasta files
+   
 
