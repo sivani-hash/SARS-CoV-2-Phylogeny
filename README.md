@@ -22,11 +22,13 @@ To replicate this project and run the computational pipelines locally, ensure yo
 2. Open your terminal or command prompt and navigate to the project folder
 3. Install the required dependencies using the provided [requirements.txt](requirements.txt) file:
 
-```pip install -r requirements.txt```
+>```
+>pip install -r requirements.txt
+>```
 
 ### Core Libraries Used:  
-* *biopython*: Used for parsing FASTA files, reading Clustal alignments, calculating genetic distance matrices, and building phylogenetic trees.
-* *matplotlib*: Used for the high-resolution, publication-ready rendering of the phylogenetic trees.
-* *jupyter*: Used as the interactive coding environment to execute the bioinformatics pipelines.
+* ```biopython```: Used for parsing FASTA files, reading Clustal alignments, calculating genetic distance matrices, and building phylogenetic trees.
+* ```matplotlib```: Used for the high-resolution, publication-ready rendering of the phylogenetic trees.
+* ```jupyter```: Used as the interactive coding environment to execute the bioinformatics pipelines.
    
 
