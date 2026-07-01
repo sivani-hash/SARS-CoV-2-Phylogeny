@@ -38,11 +38,13 @@ To replicate this project and run the computational pipelines locally, ensure yo
 <br>
 
 <table>
+
+  
   <tr>
     <!-- Left Column: Image and Caption -->
     <td width="50%" valign="top">
       <img src="coronavirus_phylogenetic_tree.png" alt="Evolutionary Divergence of Coronavirus Spike Proteins" width="100%">
-      <p align="center"><i>Fig 1: Evolutionary divergence of five distinct coronavirus spike proteins.</i></p>
+      <p align="center"><i>Fig 1: Phylogenetic relationship among five distinct coronavirus strains for spike proteins.</i></p>
     </td>  
     <td width="50%" valign="top">
       <p>  
