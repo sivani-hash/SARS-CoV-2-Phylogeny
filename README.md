@@ -52,12 +52,12 @@ To replicate this project and run the computational pipelines locally, ensure yo
         <li><b>The Bat Origins of SARS-CoV-2:</b> In this tree we observe the tight clustering of SARS-CoV-2 with the two bat coronavirus isolates: <b>RaTG13</b> and the <b>BANAL-like strain</b>. The incredibly short horizontal branch lengths connecting these three viruses indicate a very high percentage of amino acid identity, providing computational evidence that SARS-CoV-2 shares a very recent common ancestor with wild horseshoe bat coronaviruses.</li>
       </ul>
     </td>
-  </tr>
+  </tr> 
 </table>
 
 <ul>
   <li><b>SARS-CoV-1 vs. SARS-CoV-2:</b> While SARS-CoV-1 (the cause of the 2003 outbreak) and SARS-CoV-2 both infect human ACE2 receptors, the tree shows they are genetically distinct. SARS-CoV-1 branches off much earlier in the evolutionary timeline, visualizing that SARS-CoV-2 did not simply mutate directly from the 2003 virus.</li>
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="1" width="1"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="0.5" width="1"> 
   <li><b>MERS-CoV as the Outgroup:</b> MERS-CoV sits at the bottom of the tree on an exceptionally long horizontal branch. This massive distance aligns perfectly with viral taxonomy, as MERS belongs to a completely different viral subgenus (Merbecovirus) compared to the other four viruses (Sarbecovirus).</li>
 </ul>
 
