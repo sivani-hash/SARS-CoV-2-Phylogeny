@@ -32,6 +32,26 @@ To replicate this project and run the computational pipelines locally, ensure yo
 * ```jupyter```: Used as the interactive coding environment to execute the bioinformatics pipelines.
 
 ## Results Overview  
+### Phylogenetic Analysis  
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <img src="coronavirus_phylogenetic_tree.png" alt="Coronavirus Phylogenetic Tree">
+      <br>
+      <i>Neighbor-Joining (NJ) phylogenetic tree mapping evolutionary divergence based on protein identity.</i>
+    </td>
+    <td width="45%" valign="top">
+      <p><b>The Bat Origins of SARS-CoV-2</b><br>
+      The tight clustering and short branch lengths between SARS-CoV-2, RaTG13, and the BANAL-like strain provide strong computational evidence that SARS-CoV-2 shares a very recent common ancestor with wild horseshoe bat coronaviruses.</p>
+      
+      <p><b>SARS-CoV-1 vs. SARS-CoV-2</b><br>
+      While both viruses infect human ACE2 receptors, SARS-CoV-1 branches off much earlier in the evolutionary timeline, confirming SARS-CoV-2 did not mutate directly from the 2003 virus.</p>
+
+      <p><b>MERS-CoV as the Outgroup</b><br>
+      MERS-CoV acts as a baseline outgroup, sitting on a massive evolutionary branch that perfectly aligns with its classification in a completely different viral subgenus (<i>Merbecovirus</i>).</p>
+    </td>
+  </tr>
+</table>
 
    
 
