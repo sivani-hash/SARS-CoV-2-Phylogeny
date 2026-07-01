@@ -34,7 +34,6 @@ To replicate this project and run the computational pipelines locally, ensure yo
 ## Results Overview  
 ### Phylogenetic Analysis
 
-### Phylogenetic Analysis
 
 <br>
 
