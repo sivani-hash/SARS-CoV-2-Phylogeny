@@ -20,5 +20,8 @@ How does the evolutionary history of the spike protein, specifically the *micros
 To replicate this project and run the computational pipelines locally, ensure you have Python 3.x installed.  
 1. Clone this repository to your local machine
 2. Open your terminal or command prompt and navigate to the project folder
+3. Install the required dependencies using the provided [requirements.txt](requirements.txt) file
+
+`pip install -r requirements.txt`
    
 
