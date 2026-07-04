@@ -66,6 +66,20 @@ Example in a juypter notebook - see [codes](codes) folder for [tree_building.ipy
 
 For Multiple Sequence Alignment (MSA), Clustal Omega software was used. View [clustalw.aln](clustalw.aln) file to see the allignment.
 
+### Structural Analysis: The Furin Cleavage Site  
+While the phylogenetic tree shows the overall macroscopic similarity of the spike proteins, the true key to SARS-CoV-2's unique pandemic potential lies at the microscopic level; specifically, a tiny 4-amino-acid insertion (PRRA) that allows the spike to be primed by human furin enzymes. To investigate this, a Python script was developed to programmatically index the multiple sequence alignment (MSA) and extract the precise locus of this mutation across all five viral genomes.
+
+Sequence Alignment Output:
+>```
+>--- Furin Cleavage Site Alignment ---
+>YP_009724390.1  | TQTNSPRRARSVASQ  <-- SARS-CoV-2 (Wuhan Human)
+>QHR63300.2      | TQTNS----RSVASQ  <-- RaTG13 (Bat Ancestor)
+>XBU76397.1      | TQTNS----RSVASQ  <-- BANAL-like (Bat Ancestor)
+>AAP13441.1      | TVSLLR----STSQK  <-- SARS-CoV-1 (2003 Human)
+>YP_009047204.1  | TPSTLTPRSVRSVPG  <-- MERS-CoV (Human)
+>```
+
+
 
 
    
