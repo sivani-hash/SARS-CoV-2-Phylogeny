@@ -23,8 +23,10 @@ To replicate this project and run the computational pipelines locally, ensure yo
 >https://github.com/sivani-hash/SARS-CoV-2-Phylogeny.git
 >```
 
-3. Open your terminal or command prompt and navigate to the project folder
-4. Install the required dependencies using the provided [requirements.txt](requirements.txt) file:
+2. Open your terminal or command prompt and navigate to the project folder
+
+   
+3. Install the required dependencies using the provided [requirements.txt](requirements.txt) file:
 
 >```
 >pip install -r requirements.txt
