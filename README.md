@@ -89,7 +89,7 @@ Sequence Alignment Output:
 Example in a juypter notebook - see [codes](codes) folder for [PRRA.ipynb](PRRA.ipynb) file.
 
 The above alignment allows visualization of the precise evolutionary insertion. Both bat ancestors (RaTG13, BANAL-like) and the 2003 SARS-CoV-1 virus contain a stark deletion (`----`) at this coordinate. Only SARS-CoV-2 possesses the `PRRA` insertion, which allows host enzymes to cleave and prime the viral proteins during assembly,drastically increasing transmissibility.
-
+<br>
 
 ## Future Directions & Limitations
 
