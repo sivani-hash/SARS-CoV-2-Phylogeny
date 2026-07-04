@@ -15,7 +15,7 @@ To view the sequences - see the [raw_data](raw_data) folder for the .fasta files
 
 ### Biological Question  
 How does the evolutionary history of the spike protein, specifically the *microscopic acquisition of the PRRA furin cleavage site*, explain why SARS-CoV-2 triggered a highly contagious global pandemic, while its closest wild bat ancestors and previous human coronavirus strains did not?  
-<br>
+
 
 ## Installation & Dependencies  
 To replicate this project and run the computational pipelines locally, ensure you have Python 3.x installed.  
@@ -37,7 +37,7 @@ To replicate this project and run the computational pipelines locally, ensure yo
 * ```biopython```: Used for parsing FASTA files, reading Clustal alignments, calculating genetic distance matrices, and building phylogenetic trees.
 * ```matplotlib```: Used for the high-resolution, publication-ready rendering of the phylogenetic trees.
 * ```jupyter```: Used as the interactive coding environment to execute the bioinformatics pipelines.
-<br>
+
 
 ## Results Overview  
 ### Phylogenetic Analysis
@@ -90,7 +90,7 @@ Sequence Alignment Output:
 Example in a juypter notebook - see [codes](codes) folder for [PRRA.ipynb](PRRA.ipynb) file.
 
 The above alignment allows visualization of the precise evolutionary insertion. Both bat ancestors (RaTG13, BANAL-like) and the 2003 SARS-CoV-1 virus contain a stark deletion (`----`) at this coordinate. Only SARS-CoV-2 possesses the `PRRA` insertion, which allows host enzymes to cleave and prime the viral proteins during assembly,drastically increasing transmissibility.  
-<br>
+
 
 ## Future Directions & Limitations
 
