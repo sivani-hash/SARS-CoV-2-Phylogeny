@@ -72,6 +72,7 @@ Example in a juypter notebook - see [codes](codes) folder for [tree_building.ipy
 
 
 For Multiple Sequence Alignment (MSA), Clustal Omega software was used. View [clustalw.aln](clustalw.aln) file to see the alignment.
+
 <br>
 
 ### Structural Analysis: The Furin Cleavage Site  
