@@ -81,6 +81,15 @@ Sequence Alignment Output:
 Example in a juypter notebook - see [codes](codes) folder for [PRRA.ipynb](PRRA.ipynb) file.
 
 The above alignment allows visualization of the precise evolutionary insertion. Both bat ancestors (RaTG13, BANAL-like) and the 2003 SARS-CoV-1 virus contain a stark deletion (`----`) at this coordinate. Only SARS-CoV-2 possesses the `PRRA` insertion, which allows host enzymes to cleave and prime the viral proteins during assembly,drastically increasing transmissibility.
+
+## Future Directions & Limitations
+
+While this computational pipeline successfully highlights the macroscopic evolutionary divergence and microscopic insertion events of the SARS-CoV-2 spike protein, future expansions to this research could include:
+
+* **Scaling the Genomic Dataset:** Expanding the multiple sequence alignment from five representative strains to a large-scale dataset (e.g., utilizing GISAID or NCBI Virus) to construct a more highly resolved and comprehensive phylogenetic network.
+* **Advanced Tree Algorithms:** Transitioning from the current Neighbor-Joining (NJ) distance method to Maximum Likelihood (ML) or Bayesian inference models to improve the statistical robustness of the evolutionary topology.
+* **3D Structural Visualization:** Integrating structural bioinformatics tools (such as PyMOL or ChimeraX) to map the PRRA furin cleavage site directly onto the 3D crystal structure of the spike protein trimer, visualizing its physical accessibility to human enzymes.
+* **Wet-Lab Correlation:** Connecting these *in-silico* sequence alignment findings with *in-vitro* pseudovirus entry assays to physically quantify the impact of the PRRA cleavage site on cellular infectivity.
   
 
 
