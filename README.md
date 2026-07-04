@@ -61,7 +61,8 @@ To replicate this project and run the computational pipelines locally, ensure yo
   <li><b>MERS-CoV as the Outgroup:</b> MERS-CoV sits at the bottom of the tree on an exceptionally long horizontal branch. This massive distance aligns perfectly with viral taxonomy, as MERS belongs to a completely different viral subgenus (Merbecovirus) compared to the other four viruses (Sarbecovirus).</li>
 </ul>
 
-Example in a juypter notebook - see [codes](codes) folder for [tree_building.ipynb](tree_building.ipynb) and [MSA_combining.ipynb](MSA_combining.ipynb) 
+Example in a juypter notebook - see [codes](codes) folder for [tree_building.ipynb](tree_building.ipynb) and [MSA_combining.ipynb](MSA_combining.ipynb). These codes were used to combine the induvidual FASTA files of the 5 strains and build the tree.  
+For Multiple Sequence Alignment (MSA), Clustal Omega software was used. View clustalw.aln file to see the allignment.
 
 
 
