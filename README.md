@@ -62,7 +62,8 @@ To replicate this project and run the computational pipelines locally, ensure yo
 </ul>
 
 Example in a juypter notebook - see [codes](codes) folder for [tree_building.ipynb](tree_building.ipynb) and [MSA_combining.ipynb](MSA_combining.ipynb). These codes were used to combine the induvidual FASTA files of the 5 strains and build the tree. 
-<br>
+
+
 For Multiple Sequence Alignment (MSA), Clustal Omega software was used. View [clustalw.aln](clustalw.aln) file to see the allignment.
 
 
