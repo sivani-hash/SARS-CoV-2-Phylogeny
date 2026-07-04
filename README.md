@@ -78,6 +78,7 @@ Sequence Alignment Output:
 >AAP13441.1      | TVSLLR----STSQK  <-- SARS-CoV-1 (2003 Human)
 >YP_009047204.1  | TPSTLTPRSVRSVPG  <-- MERS-CoV (Human)
 >```
+Example in a juypter notebook - see [codes](codes) folder for [PRRA.ipynb](PRRA.ipynb) file.
 
 
 
