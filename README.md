@@ -15,7 +15,7 @@ To view the sequences - see the [raw_data](raw_data) folder for the .fasta files
 
 ### Biological Question  
 How does the evolutionary history of the spike protein, specifically the *microscopic acquisition of the PRRA furin cleavage site*, explain why SARS-CoV-2 triggered a highly contagious global pandemic, while its closest wild bat ancestors and previous human coronavirus strains did not?
-
+``
 ## Installation & Dependencies  
 To replicate this project and run the computational pipelines locally, ensure you have Python 3.x installed.  
 1. Clone this repository to your local machine
