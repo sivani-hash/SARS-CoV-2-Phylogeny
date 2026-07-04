@@ -59,7 +59,8 @@ To replicate this project and run the computational pipelines locally, ensure yo
   <li><b>SARS-CoV-1 vs. SARS-CoV-2:</b> While SARS-CoV-1 (the cause of the 2003 outbreak) and SARS-CoV-2 both infect human ACE2 receptors, the tree shows they are genetically distinct. SARS-CoV-1 branches off much earlier in the evolutionary timeline, visualizing that SARS-CoV-2 did not simply mutate directly from the 2003 virus.</li>
   <br>
   <li><b>MERS-CoV as the Outgroup:</b> MERS-CoV sits at the bottom of the tree on an exceptionally long horizontal branch. This massive distance aligns perfectly with viral taxonomy, as MERS belongs to a completely different viral subgenus (Merbecovirus) compared to the other four viruses (Sarbecovirus).</li>
-</ul>
+</ul>  
+Example in a juypter notebook - see [codes](codes) folder for [tree_building.ipynb](tree_building.ipynb) and [MSA_combining.ipynb](MSA_combining.ipynb)
 
 
 
